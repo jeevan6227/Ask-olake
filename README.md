@@ -258,7 +258,7 @@ For official resources:
 
 ## 👨‍💻 Author
 
-**Jeevan thanneru**
+**Thanneru Jeevan**
 
 GitHub: [@jeevan6227](https://github.com/jeevan6227)
 
