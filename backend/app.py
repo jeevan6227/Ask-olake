@@ -28,6 +28,8 @@ CORS(
             "origins": [
                 "http://localhost:5173",
                 "http://127.0.0.1:5173",
+                "https://ask-olake-kappa.vercel.app",
+                "https://ask-olake-k1t56c72a-jeevan6227.vercel.app",
             ]
         }
     },
